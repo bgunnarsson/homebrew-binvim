@@ -1,8 +1,8 @@
 class Binvim < Formula
   desc "Vim-grammar TUI editor with batteries included"
   homepage "https://github.com/bgunnarsson/binvim"
-  url "https://github.com/bgunnarsson/binvim/archive/refs/tags/v0.8.2.tar.gz"
-  sha256 "7451adf6e68296d15803a717d5b7ee13da9d0ba2733cfc9df8dafc1cbb316f97"
+  url "https://github.com/bgunnarsson/binvim/archive/refs/tags/v0.8.3.tar.gz"
+  sha256 "3b872919c5e770fc8fed460ffd64a94892c44c6447f3aad2758f0637c6cb0071"
   license :cannot_represent
 
   depends_on "rust" => :build
